@@ -74,11 +74,13 @@ section article {
   height: 400px;
 }
 
-
+h2 {
+  font-size: 24px;
+}
 
 p {
   overflow: scroll;
-  height: 320px;
+  height: 316px;
   font-size: 18px;
   font-style: italic;
   line-height: 24px;
@@ -86,7 +88,7 @@ p {
  }
 button {
   cursor: pointer;
-  width: 220px;
+  width: 200px;
   height: 40px;
   border-radius: 5px;
   background: #444;
